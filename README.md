@@ -14,13 +14,17 @@
 
 ### 🏴‍☠️ The Captain's Log
 
-- ⚓ **Currently sailing:** AI Agents & Automation Solutions
-- 🌊 **Charting new waters:** Advanced AI Agents, LangChain, Cloud Computing, System Design, Data Engineering
-- 🤝 **Seeking crew for:** AI & Full-Stack voyages
-- 🧭 **Need a navigator for:** Scaling AI Agents and SaaS Products
-- 💬 **Hail the captain about:** AI Agents, Python, SQL, Full-Stack Development, Data Analytics
-- ⚡ **Fun fact:** The best code is written at sea
+- ⚓ Currently sailing: AI Agents & Automation Solutions
+- 🌊 Charting new waters: Advanced AI Agents, LangChain, Cloud Computing, System Design, Data Engineering
+- 🤝 Seeking crew for: AI & Full-Stack voyages
+- 🧭 Need a navigator for: Scaling AI Agents and SaaS Products
+- 💬 Hail the captain about: AI Agents, Python, SQL, Full-Stack Development, Data Analytics
+- ⚡ Fun fact: The best code is written at sea
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=red-c0bra&label=Profile%20views&color=0e75b6&style=flat" alt="red-c0bra" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 </td>
 <td width="50%" align="center">
 
