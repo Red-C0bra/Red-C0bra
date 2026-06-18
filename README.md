@@ -39,10 +39,7 @@
 ### ⚓ Languages & Tools of the Trade
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css,java,c,git,streamlit,linux&perline=8" />
-</p>
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/></a>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />&nbsp;<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/></a>
 </p>
 
 ---
@@ -50,12 +47,11 @@
 ### 🗺️ Connect with the Captain
 
 <p align="left">
-<!-- Add your links below, remove the comment markers -->
+<a href="https://discord.com/users/filmonwelay_83982" target="_blank"><img src="https://img.shields.io/badge/Discord-filmonwelay__83982-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<!-- Add your links below -->
 <!-- <a href="https://linkedin.com/in/YOURPROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp; -->
 <!-- <a href="mailto:YOUREMAIL"><img src="https://img.shields.io/badge/Email-D4A017?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 </p>
-
----
 
 ### 📊 The Captain's Treasure Map
 
