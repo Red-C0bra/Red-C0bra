@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/Red-C0bra/Red-C0bra/main/pirate_coder.svg" alt="Pirate Coder Animation" width="380"/>
+<img src="https://raw.githubusercontent.com/Red-C0bra/Red-C0bra/main/pirate_coder.gif" alt="Pirate Coder Animation" width="380"/>
 
 </td>
 </tr>
